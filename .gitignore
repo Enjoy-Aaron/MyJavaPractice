@@ -1,0 +1,26 @@
+# 压缩包
+*.zip
+*.rar
+*.7z
+
+# Java 编译产生的class文件
+target/
+bin/
+*.class
+
+# IDEA 配置文件
+.idea/
+*.iml
+out/
+
+# VSCode 配置
+.vscode/
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak

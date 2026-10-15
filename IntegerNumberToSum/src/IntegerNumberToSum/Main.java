@@ -1,4 +1,4 @@
-package IntegerNumberToSum;
+package integernumbertosum;
 
 import java.util.Scanner;
 
